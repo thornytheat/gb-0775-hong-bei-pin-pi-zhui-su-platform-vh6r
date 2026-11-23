@@ -1,0 +1,12 @@
+name: roastery-lot
+services:
+  app:
+    build: .
+    ports:
+      - "18474:8000"
+    environment:
+      ROAST_CABINET: var/cabinet
+    volumes:
+      - roast-cabinet:/opt/roast/var
+volumes:
+  roast-cabinet:

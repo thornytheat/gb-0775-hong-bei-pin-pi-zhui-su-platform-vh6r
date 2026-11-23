@@ -1,0 +1,12 @@
+ticket,work,kind,gross,tare,unit
+PK-A,BA-01,pack,0.62,0.02,kg
+LS-A,BA-01,loss,50,0,g
+RT-A,BA-01,return,305,5,g
+PK-B,BA-02,pack,470,20,g
+LS-B,BA-02,loss,10,0,g
+RT-B,BA-02,return,30,0,g
+PK-C,BA-03,pack,285,10,g
+LS-C,BA-03,loss,5,0,g
+PK-D,BA-04,pack,85,5,g
+LS-D,BA-04,loss,10,0,g
+RT-D,BA-04,return,100,0,g

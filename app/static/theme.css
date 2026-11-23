@@ -1,0 +1,8 @@
+:root {
+  --bg:#e7ede6; --rail:#d2ded4; --paper:#fcfdf7; --rule:#aabfb1; --ink:#18372a;
+  --dim:#466451; --accent:#1c573a; --accent-ink:#fff; --stripe:#e8efe3; --ink-dark:#153d2c;
+  --ok:#276342; --warn:#8e4517; --warn-fill:#faebd6;
+  --font-mono:"IBM Plex Mono", "SFMono-Regular", Consolas, "PingFang SC", monospace;
+  --font-display:"PingFang SC", "Heiti SC", system-ui,sans-serif;
+  --row:27px; --pad:12px; --gap:10px; --radius:0; --bar:47px;
+}
